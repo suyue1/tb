@@ -1,0 +1,9 @@
+{
+  "title": "登录",
+  "login": {
+    "name": "susu",
+    "password": "123",
+    "token": 1,
+    "imgUrl": "../public/images/sw-1.jpg"
+  }
+}

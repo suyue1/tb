@@ -1,0 +1,113 @@
+.normal {
+  height: 100%;
+  background-color: #f2f2f2;
+  .orderHeader {
+    display: flex;
+    padding: 15px;
+    display: flex;
+    height: 40px;
+    background-color: #ffffff;
+    justify-content: space-around;
+    .one {
+      background: #e4e3e3;
+      width: 27px;
+      height: 27px;
+      margin-top: -8px;
+      border-radius: 50%;
+      text-align: center;
+      line-height: 27px;
+      span {
+        // font-size: 22px !important;
+        padding: 5px;
+        color: #a0a0a0;
+      }
+    }
+
+    p {
+      color: #a8a7a7;
+      font-size: 14px;
+      &:hover {
+        color: red;
+      }
+      &:nth-of-type(2) {
+        color: red;
+      }
+    }
+  }
+  .orderList {
+    padding: 15px;
+    box-sizing: border-box;
+    li {
+      width: 100%;
+      background-color: #fff;
+      border-radius: 10px;
+      margin-bottom: 15px;
+      padding: 10px;
+      .listHeader {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 10px;
+        .listHeader_left {
+          span:first-child {
+            font-size: 12px;
+            color: #000000;
+          }
+          span:nth-child(2) {
+            font-size: 12px;
+            color: #000000;
+            margin-left: 15px;
+          }
+        }
+        span {
+          font-size: 12px;
+          color: red;
+          width: 140px;
+          text-align: center;
+          line-height: 20px;
+        }
+      }
+      .orderSection {
+        display: flex;
+        justify-content: space-between;
+        img {
+          width: 80px;
+          height: 80px;
+        }
+        span {
+          font-size: 12px;
+        }
+        .price {
+          span {
+            display: block;
+            font-size: 12px;
+          }
+          span:nth-child(2) {
+            color: #ccc;
+            text-align: right;
+          }
+        }
+      }
+      p {
+        text-align: right;
+        margin-bottom: 10px;
+        span {
+          font-size: 12px;
+        }
+      }
+      .orderBtn {
+        text-align: right;
+        button:first-of-type {
+          background-color: #fff;
+        }
+        button {
+          padding: 4px 6px;
+          border: 1px solid #ccc;
+          border-radius: 25px;
+          font-size: 14px;
+          background-color: #ccc;
+          margin-right: 15px;
+        }
+      }
+    }
+  }
+}

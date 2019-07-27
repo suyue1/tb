@@ -1,0 +1,227 @@
+.normal {
+  width: 100%;
+
+  .scroll_y {
+    overflow-y: auto;
+    position: absolute;
+    background-color: #f2f2f2;
+
+    .cart_top {
+      color: #fff;
+      height: 180px;
+      width: 100%;
+      background-image: -webkit-linear-gradient(right, #ff5000 0%, #ff8400 100%);
+      background-image: linear-gradient(-90deg, #ff5000 0%, #ff8400 100%);
+      padding: 0 20px;
+      z-index: 2;
+
+      .top_title {
+        padding-top: 20px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        color: #fff;
+
+        .cart_num {
+          font-size: 20px;
+          font-weight: 600;
+        }
+      }
+      p {
+        color: #fff;
+        font-size: 12px;
+        margin-top: 20px;
+      }
+    }
+
+    .cart_shop {
+      height: 44px;
+      line-height: 44px;
+      background: #fff;
+      margin: 0 12px;
+      position: relative;
+      top: -80px;
+      border-radius: 12px 12px 0 0;
+      margin-bottom: 0.2px;
+
+      .select {
+        height: 22px;
+        width: 22px;
+        border: 1px solid #ccc;
+        border-radius: 50%;
+        margin: 12px;
+        float: left;
+      }
+
+      .shopName {
+        font-size: 13px;
+        color: rgb(51, 51, 51);
+        float: left;
+      }
+      .coupon {
+        font-size: 13px;
+        color: #999;
+        float: right;
+        margin-right: 12px;
+      }
+    }
+
+    .cart_main {
+      height: 130px;
+      width: 351px;
+      background: #fff;
+      margin: 0 12px;
+      border-radius: 0 0 12px 12px;
+      position: relative;
+      top: -82px;
+      display: flex;
+      flex-direction: row;
+      margin-bottom: 20px;
+      .select {
+        height: 22px;
+        width: 22px;
+        border: 1px solid #ccc;
+        border-radius: 50%;
+        margin: 12px;
+        float: left;
+        margin-top: 40px;
+      }
+      .pic {
+        width: 90px;
+        height: 90px;
+        margin-top: 10px;
+
+        img {
+          width: 100%;
+        }
+      }
+
+      .description {
+        width: 192px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 10px;
+        margin-left: 8px;
+
+        .title {
+          height: 30px;
+          line-height: 15px;
+          font-size: 14px;
+          color: rgb(51, 51, 51);
+          overflow: hidden;
+        }
+
+        .size {
+          width: 176px;
+          height: 32px;
+          line-height: 16px;
+          background-color: rgba(236, 236, 236, 0.298);
+          color: rgb(153, 153, 153);
+          font-size: 13px;
+          margin-top: 6px;
+        }
+
+        .number {
+          margin-top: 20px;
+          display: flex;
+          flex-direction: row;
+
+          p {
+            font-size: 14px;
+            color: rgb(255, 85, 0);
+            margin-top: 4px;
+          }
+          .addNum {
+            width: 100px;
+            height: 24px;
+            display: flex;
+            flex: row;
+            margin-left: 30px;
+
+            button {
+              width: 30px;
+              height: 24px;
+              background: #fff;
+              outline: none;
+              border: 0.5px solid #ccc;
+            }
+
+            span {
+              width: 40px;
+              line-height: 24px;
+              margin-right: -2px;
+              text-align: center;
+              border-bottom: 0.5px solid #ccc;
+              border-top: 0.5px solid #ccc;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  // 底部固定  结算栏
+  .settlement_bar {
+    height: 54px;
+    line-height: 54px;
+    width: 100%;
+    background: #fff;
+    position: fixed;
+    bottom: 43px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 12px;
+
+    .select_all {
+      .select {
+        height: 22px;
+        width: 22px;
+        border: 1px solid #ccc;
+        border-radius: 50%;
+        margin: 16px 8px;
+        float: left;
+      }
+
+      span {
+        color: #666;
+        font-size: 13px;
+      }
+    }
+
+    .account_wrap {
+      display: flex;
+      flex-direction: row;
+
+      .freight_charge {
+        color: #999;
+        font-size: 12px;
+        margin-top: 3px;
+        margin-right: 4px;
+      }
+
+      .total_price {
+        color: #ff5000;
+        font-size: 15px;
+        margin-top: 4px;
+      }
+
+      .submit_btn {
+        height: 38px;
+        background-image: -webkit-linear-gradient(left, #ff9000 0%, #ff5000 98%);
+        background-image: linear-gradient(90deg, #ff9000 0%, #ff5000 98%);
+        font-size: 15px;
+        line-height: 15px;
+        padding: 12px 12px;
+        text-align: center;
+        border-radius: 80px;
+        color: #ffffff;
+        white-space: nowrap;
+        margin: 8px;
+      }
+    }
+  }
+}
+.am-list-extra {
+  flex-basis: 100%;
+}
