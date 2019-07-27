@@ -6,170 +6,170 @@
     { "one": "优衣库" }
   ],
   "swipers": [
-    "../public/images/swiper1.jpg",
-    "../public/images/swiper2.jpg",
-    "../public/images/swiper3.jpg",
-    "../public/images/swiper4.jpg",
-    "../public/images/swiper5.jpg",
-    "../public/images/swiper6.jpg",
-    "../public/images/swiper7.jpg",
-    "../public/images/swiper8.jpg"
+    "/public/images/swiper1.jpg",
+    "/public/images/swiper2.jpg",
+    "/public/images/swiper3.jpg",
+    "/public/images/swiper4.jpg",
+    "/public/images/swiper5.jpg",
+    "/public/images/swiper6.jpg",
+    "/public/images/swiper7.jpg",
+    "/public/images/swiper8.jpg"
   ],
   "channel": [
     {
-      "appPic1": "../public/images/t2.jpg",
+      "appPic1": "/public/images/t2.jpg",
       "appName1": "天猫"
     },
     {
-      "appPic1": "../public/images/t11.jpg",
+      "appPic1": "/public/images/t11.jpg",
       "appName1": "淘鲜达"
     },
     {
-      "appPic1": "../public/images/t3.jpg",
+      "appPic1": "/public/images/t3.jpg",
       "appName1": "聚划算"
     },
     {
-      "appPic1": "../public/images/t10.jpg",
+      "appPic1": "/public/images/t10.jpg",
       "appName1": "拍卖"
     },
     {
-      "appPic1": "../public/images/t4.jpg",
+      "appPic1": "/public/images/t4.jpg",
       "appName1": "天猫国际"
     },
     {
-      "appPic1": "../public/images/t9.jpg",
+      "appPic1": "/public/images/t9.jpg",
       "appName1": "淘金币"
     },
     {
-      "appPic1": "../public/images/t5.jpg",
+      "appPic1": "/public/images/t5.jpg",
       "appName1": "饿了么"
     },
     {
-      "appPic1": "../public/images/t8.jpg",
+      "appPic1": "/public/images/t8.jpg",
       "appName1": "飞猪旅行"
     },
     {
-      "appPic1": "../public/images/t6.jpg",
+      "appPic1": "/public/images/t6.jpg",
       "appName1": "天猫超市"
     },
     {
-      "appPic1": "../public/images/t7.jpg",
+      "appPic1": "/public/images/t7.jpg",
       "appName1": "充值中心"
     }
   ],
   "headline": [
     {
-      "linepic1": "../public/images/t16.jpg",
+      "linepic1": "/public/images/t16.jpg",
       "title": "天天特价",
       "des": "低价团购更划算",
       "price": 59,
       "number": 16252,
       "addres": "广州",
       "name": "质感小包包女2019新款潮ins百搭ck菱格斜跨包时尚真皮女包",
-      "linepic2": "../public/images/bao2.jpg",
-      "linepic3": "../public/images/t23.jpg",
-      "linepic4": "../public/images/t20.jpg",
+      "linepic2": "/public/images/bao2.jpg",
+      "linepic3": "/public/images/t23.jpg",
+      "linepic4": "/public/images/t20.jpg",
       "imgUrl": [
-        "../public/images/bao20.jpg",
-        "../public/images/bao21.jpg",
-        "../public/images/bao22.jpg",
-        "../public/images/bao23.jpg"
+        "/public/images/bao20.jpg",
+        "/public/images/bao21.jpg",
+        "/public/images/bao22.jpg",
+        "/public/images/bao23.jpg"
       ]
     },
     {
-      "linepic1": "../public/images/t15.jpg",
+      "linepic1": "/public/images/t15.jpg",
       "title": "有好货",
       "des": "只给挑剔的你",
       "price": 299,
       "number": 1625941,
       "addres": "上海",
       "name": "无线蓝牙耳机运动跑步男女hifi",
-      "linepic2": "../public/images/bao1.jpg",
-      "linepic3": "../public/images/t22.jpg",
-      "linepic4": "../public/images/t20.jpg",
+      "linepic2": "/public/images/bao1.jpg",
+      "linepic3": "/public/images/t22.jpg",
+      "linepic4": "/public/images/t20.jpg",
       "imgUrl": [
-        "../public/images/bao01.jpg",
-        "../public/images/bao02.jpg",
-        "../public/images/bao03.jpg",
-        "../public/images/bao04.jpg"
+        "/public/images/bao01.jpg",
+        "/public/images/bao02.jpg",
+        "/public/images/bao03.jpg",
+        "/public/images/bao04.jpg"
       ]
     },
 
     {
-      "linepic1": "../public/images/t14.jpg",
+      "linepic1": "/public/images/t14.jpg",
       "title": "淘抢购",
       "des": "限时限量抢半价",
-      "linepic2": "../public/images/bao3.jpg",
-      "linepic3": "../public/images/t27.jpg",
-      "linepic4": "../public/images/t20.jpg",
+      "linepic2": "/public/images/bao3.jpg",
+      "linepic3": "/public/images/t27.jpg",
+      "linepic4": "/public/images/t20.jpg",
       "price": 288,
       "number": 29983,
       "addres": "上海",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/bao30.jpg",
-        "../public/images/bao31.jpg",
-        "../public/images/bao32.jpg",
-        "../public/images/bao33.jpg"
+        "/public/images/bao30.jpg",
+        "/public/images/bao31.jpg",
+        "/public/images/bao32.jpg",
+        "/public/images/bao33.jpg"
       ]
     },
     {
-      "linepic1": "../public/images/t17.jpg",
+      "linepic1": "/public/images/t17.jpg",
       "title": "淘宝直播",
       "des": "越买越开心",
       "price": 1050,
       "number": 16254,
       "addres": "上海",
       "name": "定制金 索菲亚阳台洗衣机定制简约现代电视柜吊柜入户柜定做",
-      "linepic2": "../public/images/bao4.jpg",
-      "linepic3": "../public/images/t30.jpg",
-      "linepic4": "../public/images/t20.jpg",
+      "linepic2": "/public/images/bao4.jpg",
+      "linepic3": "/public/images/t30.jpg",
+      "linepic4": "/public/images/t20.jpg",
       "imgUrl": [
-        "../public/images/bao40.jpg",
-        "../public/images/bao41.jpg",
-        "../public/images/bao42.jpg",
-        "../public/images/bao43.jpg"
+        "/public/images/bao40.jpg",
+        "/public/images/bao41.jpg",
+        "/public/images/bao42.jpg",
+        "/public/images/bao43.jpg"
       ]
     },
     {
-      "linepic1": "../public/images/t18.jpg",
+      "linepic1": "/public/images/t18.jpg",
       "title": "哇哦视频",
       "des": "Get网购经验",
       "price": 29.9,
       "number": 1625,
       "addres": "上海",
       "name": "夏季短袖体恤女2019新款宽松韩版百搭T恤学生半袖上衣服大地潮杉",
-      "linepic2": "../public/images/bao5.jpg",
-      "linepic3": "../public/images/t31.jpg",
-      "linepic4": "../public/images/t20.jpg",
+      "linepic2": "/public/images/bao5.jpg",
+      "linepic3": "/public/images/t31.jpg",
+      "linepic4": "/public/images/t20.jpg",
       "imgUrl": [
-        "../public/images/bao50.jpg",
-        "../public/images/bao51.jpg",
-        "../public/images/bao52.jpg",
-        "../public/images/bao53.jpg"
+        "/public/images/bao50.jpg",
+        "/public/images/bao51.jpg",
+        "/public/images/bao52.jpg",
+        "/public/images/bao53.jpg"
       ]
     },
     {
-      "linepic1": "../public/images/t19.jpg",
+      "linepic1": "/public/images/t19.jpg",
       "title": "每日好店",
       "des": "神店挖掘机",
       "price": 76,
       "number": 1626,
       "addres": "河南郑州",
       "name": "阔腿牛仔裤女夏季2019新款八分显瘦纠纷高腰拨款宽松垂直感裤子",
-      "linepic2": "../public/images/bao6.jpg",
-      "linepic3": "../public/images/t32.jpg",
-      "linepic4": "../public/images/t20.jpg",
+      "linepic2": "/public/images/bao6.jpg",
+      "linepic3": "/public/images/t32.jpg",
+      "linepic4": "/public/images/t20.jpg",
       "imgUrl": [
-        "../public/images/bao60.jpg",
-        "../public/images/bao61.jpg",
-        "../public/images/bao62.jpg",
-        "../public/images/bao63.jpg"
+        "/public/images/bao60.jpg",
+        "/public/images/bao61.jpg",
+        "/public/images/bao62.jpg",
+        "/public/images/bao63.jpg"
       ]
     }
   ],
-  "banner": [{ "banpic": "../public/images/t33.jpg" }],
+  "banner": [{ "banpic": "/public/images/t33.jpg" }],
   "nav": [
     { "navH": "全部", "navS": "猜你喜欢" },
     { "navH": "直播", "navS": "网红推荐" },
@@ -180,763 +180,763 @@
   ],
   "products": [
     {
-      "proPic": "../public/images/bao6.jpg",
+      "proPic": "/public/images/bao6.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 6499,
       "number": 29983,
       "addres": "上海",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/bao6.jpg",
-        "../public/images/bao6.jpg",
-        "../public/images/bao6.jpg",
-        "../public/images/bao6.jpg"
+        "/public/images/bao6.jpg",
+        "/public/images/bao6.jpg",
+        "/public/images/bao6.jpg",
+        "/public/images/bao6.jpg"
       ]
     },
     {
-      "proPic": "../public/images/01.jpg",
+      "proPic": "/public/images/01.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 6499,
       "number": 29983,
       "addres": "上海",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/01.jpg",
-        "../public/images/01.jpg",
-        "../public/images/01.jpg",
-        "../public/images/01.jpg"
+        "/public/images/01.jpg",
+        "/public/images/01.jpg",
+        "/public/images/01.jpg",
+        "/public/images/01.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t46.jpg",
+      "proPic": "/public/images/t46.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 6499,
       "number": 29983,
       "addres": "苏州",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t45.jpg",
+      "proPic": "/public/images/t45.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，39",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "杭州",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t39.jpg",
+      "proPic": "/public/images/t39.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "上溪",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/bao5.jpg",
+      "proPic": "/public/images/bao5.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "湖北",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/bao4.jpg",
+      "proPic": "/public/images/bao4.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "广州",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t47.jpg",
+      "proPic": "/public/images/t47.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "北京",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t36.jpg",
+      "proPic": "/public/images/t36.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/bao3.jpg",
+      "proPic": "/public/images/bao3.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/bao2.jpg",
+      "proPic": "/public/images/bao2.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t48.jpg",
+      "proPic": "/public/images/t48.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t40.jpg",
+      "proPic": "/public/images/t40.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t39.jpg",
+      "proPic": "/public/images/t39.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/bao1.jpg",
+      "proPic": "/public/images/bao1.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t45.jpg",
+      "proPic": "/public/images/t45.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t37.jpg",
+      "proPic": "/public/images/t37.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t48.jpg",
+      "proPic": "/public/images/t48.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t46.jpg",
+      "proPic": "/public/images/t46.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t40.jpg",
+      "proPic": "/public/images/t40.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t41.jpg",
+      "proPic": "/public/images/t41.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/01.jpg",
+      "proPic": "/public/images/01.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/01.jpg",
+      "proPic": "/public/images/01.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t48.jpg",
+      "proPic": "/public/images/t48.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/bao6.jpg",
+      "proPic": "/public/images/bao6.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t39.jpg",
+      "proPic": "/public/images/t39.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t45.jpg",
+      "proPic": "/public/images/t45.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t41.jpg",
+      "proPic": "/public/images/t41.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t35.jpg",
+      "proPic": "/public/images/t35.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t46.jpg",
+      "proPic": "/public/images/t46.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t46.jpg",
+      "proImg": "/public/images/t46.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t37.jpg",
+      "proPic": "/public/images/t37.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t45.jpg",
+      "proImg": "/public/images/t45.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t38.jpg",
+      "proPic": "/public/images/t38.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t39.jpg",
+      "proPic": "/public/images/t39.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t40.jpg",
+      "proPic": "/public/images/t40.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t41.jpg",
+      "proPic": "/public/images/t41.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t35.jpg",
+      "proPic": "/public/images/t35.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t36.jpg",
+      "proPic": "/public/images/t36.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t37.jpg",
+      "proPic": "/public/images/t37.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t38.jpg",
+      "proPic": "/public/images/t38.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     },
     {
-      "proPic": "../public/images/t39.jpg",
+      "proPic": "/public/images/t39.jpg",
       "proTit": "【十二期免息 限时限量抢购】",
       "proSay": "新鲜好物！以上新24天",
       "proMoney": "￥6，499",
       "proNum": "13756人付款",
-      "proImg": "../public/images/t42.jpg",
+      "proImg": "/public/images/t42.jpg",
       "price": 639,
       "number": 29983,
       "addres": "sha",
       "name": "正品金士顿女性手表简约气质 石英表电子防水潮流细带小巧ins风",
 
       "imgUrl": [
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg",
-        "../public/images/t46.jpg"
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg",
+        "/public/images/t46.jpg"
       ]
     }
   ],
@@ -961,61 +961,61 @@
     {
       "theman": [
         {
-          "manpic1": "../public/images/t43.jpg",
+          "manpic1": "/public/images/t43.jpg",
           "manh": "金币庄园小助手",
           "mans1": "4分钟前",
           "mans2": "新关注账号",
           "manp1": "x",
           "manp2": "省钱不掉档次，百元大衣穿出千元气质～",
-          "manpic2": "../public/images/t44.jpg",
+          "manpic2": "/public/images/t44.jpg",
           "manpic3": [
             {
-              "manpic3-o": "../public/images/t45.jpg"
+              "manpic3-o": "/public/images/t45.jpg"
             },
             {
-              "manpic3-o": "../public/images/t46.jpg"
+              "manpic3-o": "/public/images/t46.jpg"
             },
             {
-              "manpic3-o": "../public/images/t47.jpg"
+              "manpic3-o": "/public/images/t47.jpg"
             },
             {
-              "manpic3-o": "../public/images/t48.jpg"
+              "manpic3-o": "/public/images/t48.jpg"
             }
           ],
           "mans3": "2709次阅读",
-          "manpic4": "../public/images/t49.jpg",
+          "manpic4": "/public/images/t49.jpg",
           "mans4": "4",
-          "manpic5": "../public/images/t50.jpg",
+          "manpic5": "/public/images/t50.jpg",
           "mans5": "60"
         }
       ],
       "themi1": [
         {
-          "manpic1": "../public/images/t43.jpg",
+          "manpic1": "/public/images/t43.jpg",
           "manh": "金币庄园小助手",
           "mans1": "4分钟前",
           "mans2": "新关注账号",
           "manp1": "x",
           "manp2": "省钱不掉档次，百元大衣穿出千元气质～",
-          "manpic2": "../public/images/t44.jpg",
+          "manpic2": "/public/images/t44.jpg",
           "manpic3": [
             {
-              "manpico": "../public/images/t45.jpg"
+              "manpico": "/public/images/t45.jpg"
             },
             {
-              "manpico": "../public/images/t46.jpg"
+              "manpico": "/public/images/t46.jpg"
             },
             {
-              "manpico": "../public/images/t47.jpg"
+              "manpico": "/public/images/t47.jpg"
             },
             {
-              "manpico": "../public/images/t48.jpg"
+              "manpico": "/public/images/t48.jpg"
             }
           ],
           "mans3": "2709次阅读",
-          "manpic4": "../public/images/t49.jpg",
+          "manpic4": "/public/images/t49.jpg",
           "mans4": "4",
-          "manpic5": "../public/images/t50.jpg",
+          "manpic5": "/public/images/t50.jpg",
           "mans5": "60"
         }
       ],
@@ -1024,249 +1024,249 @@
   ],
   "aalChannel": [
     {
-      "chlipic1": "../public/images/t61.jpg",
+      "chlipic1": "/public/images/t61.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t62.jpg",
+      "chlipic1": "//static/images/t62.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t63.jpg",
+      "chlipic1": "//static/images/t63.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t64.jpg",
+      "chlipic1": "//static/images/t64.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t65.jpg",
+      "chlipic1": "//static/images/t65.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t2.jpg",
+      "chlipic1": "//static/images/t2.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t3.jpg",
+      "chlipic1": "//static/images/t3.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t4.jpg",
+      "chlipic1": "//static/images/t4.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t5.jpg",
+      "chlipic1": "//static/images/t5.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t6.jpg",
+      "chlipic1": "//static/images/t6.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t7.jpg",
+      "chlipic1": "//static/images/t7.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t8.jpg",
+      "chlipic1": "//static/images/t8.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t9.jpg",
+      "chlipic1": "//static/images/t9.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t10.jpg",
+      "chlipic1": "//static/images/t10.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t11.jpg",
+      "chlipic1": "//static/images/t11.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t13.jpg",
+      "chlipic1": "//static/images/t13.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t61.jpg",
+      "chlipic1": "//static/images/t61.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t62.jpg",
+      "chlipic1": "//static/images/t62.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t63.jpg",
+      "chlipic1": "//static/images/t63.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t64.jpg",
+      "chlipic1": "//static/images/t64.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t65.jpg",
+      "chlipic1": "//static/images/t65.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t2.jpg",
+      "chlipic1": "//static/images/t2.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t3.jpg",
+      "chlipic1": "//static/images/t3.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t4.jpg",
+      "chlipic1": "//static/images/t4.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t5.jpg",
+      "chlipic1": "//static/images/t5.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t6.jpg",
+      "chlipic1": "//static/images/t6.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t7.jpg",
+      "chlipic1": "//static/images/t7.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t8.jpg",
+      "chlipic1": "//static/images/t8.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t9.jpg",
+      "chlipic1": "//static/images/t9.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t10.jpg",
+      "chlipic1": "//static/images/t10.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t11.jpg",
+      "chlipic1": "//static/images/t11.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     },
     {
-      "chlipic1": "../../static/images/t13.jpg",
+      "chlipic1": "//static/images/t13.jpg",
       "chlih1": "全球时尚",
       "chlip1": "时尚大牌新潮咨询",
-      "chlipic2": "../../static/images/t66.jpg",
+      "chlipic2": "//static/images/t66.jpg",
       "chlip2": "关注"
     }
   ],
   "carts": [
     {
-      "cartPic1": "../../static/images/t68.jpg",
+      "cartPic1": "//static/images/t68.jpg",
       "cartTit": "源氏食品专营店",
       "cartLi": [
         {
-          "cartPic2": "../../static/images/t69.jpg",
+          "cartPic2": "//static/images/t69.jpg",
           "cartP1": "卫龙小面筋零食辣条大礼包女混搭混合装一箱小成人款吃的休闲食品",
           "cartPla": "请重新选择商品规格",
           "cartSpan": "重选"
         },
         {
-          "cartPic2": "../../static/images/t52.jpg",
+          "cartPic2": "//static/images/t52.jpg",
           "cartP1": "卫龙小面筋零食辣条大礼包女混搭混合装一箱小成人款吃的休闲食品",
           "cartPla": "请重新选择商品规格",
           "cartSpan": "重选"
         },
         {
-          "cartPic2": "../../static/images/t53.jpg",
+          "cartPic2": "//static/images/t53.jpg",
           "cartP1": "卫龙小面筋零食辣条大礼包女混搭混合装一箱小成人款吃的休闲食品",
           "cartPla": "请重新选择商品规格",
           "cartSpan": "重选"
@@ -1276,18 +1276,18 @@
   ],
   "carts2": [
     {
-      "cartPic1": "../../static/images/t68.jpg",
+      "cartPic1": "//static/images/t68.jpg",
       "cartTit": "倍思正百川专卖店",
-      "cartPic2": "../../static/images/t70.jpg",
+      "cartPic2": "//static/images/t70.jpg",
       "cartP1": "倍思type-c数据线智能断电QC3.0快充note3充电线3A闪充mix2小米8快速6通用5S手机",
       "cartPla": "【黑色1米】升级提速QC3.0快充☆智能断电充满断电；其他",
       "cartSpan": 45,
       "cartSpan2": "1"
     },
     {
-      "cartPic1": "../../static/images/t68.jpg",
+      "cartPic1": "//static/images/t68.jpg",
       "cartTit": "倍思正百川专卖店",
-      "cartPic2": "../../static/images/t71.jpg",
+      "cartPic2": "//static/images/t71.jpg",
       "cartP1": "倍思type-c数据线智能断电QC3.0快充note3充电线3A闪充mix2小米8快速6通用5S手机",
       "cartPla": "【黑色1米】升级提速QC3.0快充☆智能断电充满断电；其他",
       "cartSpan": 85,
