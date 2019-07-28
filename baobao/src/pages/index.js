@@ -2,11 +2,11 @@ import React from 'react';
 // import { connect } from 'dva';
 import Link from 'umi/link';
 
-import image from '../assets/images/swiper7.jpg';
+// import image from '../assets/images/swiper7.jpg';
 import images from '../assets/images/first.png';
 import imgs from '../assets/images/t43.jpg';
 // import font from '../assets/images/fontback.png';
-// import Swiper from '../components/swiper';
+import MySwiper from '../components/myswiper';
 
 import styles from './index.less';
 var sectionStyle = {
@@ -79,12 +79,12 @@ class Index extends React.Component {
   // }
 
   getSwiper = () => {
-    fetch('http://localhost:3000/indexs', {
+    fetch('http://106.15.230.53/indexs', {
       post: 'GET',
     })
       .then(response => response.json())
       .then(res => {
-        // console.log(res);
+        console.log(res);
         this.setState({
           bannerList: res.swipers,
           channel: res.channel,
@@ -93,7 +93,7 @@ class Index extends React.Component {
           nav: res.nav,
           products: res.products,
         });
-        // console.log(this.state.bannerList);
+        console.log(this.state.bannerList);
         // this.props.setSwiper(res.swipers);
       });
   };
@@ -110,8 +110,8 @@ class Index extends React.Component {
           <span>寻找宝贝店铺</span>
         </div>
         <div className={styles.banners}>
-          {/* <Swiper autoplay={true} slide={this.state.bannerList} navigation={false} height="160px" /> */}
-          <img src={image} alt="" />
+          <MySwiper autoplay={true} slide={this.state.bannerList} navigation={false} />
+          {/* <img src={image} alt="" /> */}
         </div>
         <ul className={styles.ullist}>
           {this.state.channel.map((item, index) => {

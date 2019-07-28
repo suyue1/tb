@@ -1,3 +1,8 @@
+/**
+ * title: 我的
+ * Routes:
+ *  - ./src/routes/PrivateRoute.js
+ */
 import styles from './index.less';
 import React from 'react';
 
@@ -81,14 +86,13 @@ class Cart extends React.Component {
       <div className={styles.normal}>
         {/* 滚动部分 */}
         <div className={styles.scroll_y}>
-
           {/* 表头部分 */}
           <div className={styles.cart_top}>
             <div className={styles.top_title}>
-              <div className={styles.cart_num}>购物车(52)</div>
+              <div className={styles.cart_num}>购物车({this.state.array.length})</div>
               <div className={styles.opts}>管理</div>
             </div>
-            <p>共52件宝贝</p>
+            <p>共{this.state.array.length}件宝贝</p>
           </div>
 
           {/* 购物车内容部分 */}

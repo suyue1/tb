@@ -90,7 +90,7 @@ class Detail extends React.Component {
     });
   }
   getSwiper = () => {
-    fetch('http://localhost:3000/indexs', {
+    fetch('http://106.15.230.53/indexs', {
       post: 'GET',
     })
       .then(response => response.json())
@@ -202,7 +202,7 @@ class Detail extends React.Component {
               <span className={styles.discount_ticket}>店铺优惠券</span>
               <span className={styles.discount_getCoupon}>领取优惠券</span>
               <span className={styles.discount_get}>领取</span>
-              <i className="iconfont icon-you" style={{ fontSize: '16px', color: '#ccccccc' }}>
+              <i className="iconfont icon-you" style={{ fontSize: '16px', color: '#cccccc' }}>
                 {' '}
               </i>
             </div>
@@ -211,7 +211,7 @@ class Detail extends React.Component {
               <span className={styles.sales_title}>促销</span>
               <span className={styles.sales_score}>积分</span>
               <span className={styles.sales_getScore}>购买可得219积分</span>
-              <i className="iconfont icon-you" style={{ fontSize: '16px', color: '#ccccccc' }}>
+              <i className="iconfont icon-you" style={{ fontSize: '16px', color: '#cccccc' }}>
                 {' '}
               </i>
             </div>
@@ -224,7 +224,7 @@ class Detail extends React.Component {
                 <li>极速退款</li>
                 <li>退货运费险</li>
               </ul>
-              <i className="iconfont icon-you" style={{ fontSize: '16px', color: '#ccccccc' }}>
+              <i className="iconfont icon-you" style={{ fontSize: '16px', color: '#cccccc' }}>
                 {' '}
               </i>
               <div>
@@ -239,14 +239,14 @@ class Detail extends React.Component {
             <div className={styles.select_size}>
               <span className={styles.size_title}>选择</span>
               <span className={styles.size_select}>请选择尺码/颜色分类</span>
-              <i className="iconfont icon-you" style={{ fontSize: '16px', color: '#ccccccc' }}>
+              <i className="iconfont icon-you" style={{ fontSize: '16px', color: '#cccccc' }}>
                 {' '}
               </i>
             </div>
             <div className={styles.select_argument}>
               <span className={styles.argument_title}>参数</span>
               <span className={styles.argument_select}>品牌 功能...</span>
-              <i className="iconfont icon-you" style={{ fontSize: '16px', color: '#ccccccc' }}>
+              <i className="iconfont icon-you" style={{ fontSize: '16px', color: '#cccccc' }}>
                 {' '}
               </i>
             </div>

@@ -18,7 +18,7 @@ class User extends React.Component {
         this.setState({
           isloading: true,
         });
-        fetch('http://localhost:3000/logins', {
+        fetch('http://106.15.230.53/logins', {
           method: 'GET',
           // body: JSON.stringify(values),
           // headers: {
