@@ -26,8 +26,23 @@ class Index extends React.Component {
     bannerList: [],
     products: [],
     lefts: 0,
+    hrefs: [
+      'https://www.tmall.com/',
+      'https://h5.yiguo.com/',
+      'https://jhs.m.taobao.com/',
+      'https://market.m.taobao.com',
+      'https://pages.tmall.com',
+      'https://h5.m.taobao.com',
+      'https://h5.ele.me/',
+      'https://h5.m.taobao.com',
+      'https://pages.tmall.com',
+      'https://market.m.taobao.com',
+    ],
   };
-
+  goHref(index) {
+    console.log(index);
+    window.open(`${this.state.hrefs[index]}`);
+  }
   changeLeft(index) {
     if (index === 0) {
       this.setState({
@@ -116,7 +131,7 @@ class Index extends React.Component {
         <ul className={styles.ullist}>
           {this.state.channel.map((item, index) => {
             return (
-              <li key={index}>
+              <li key={index} onClick={this.goHref.bind(this, index)}>
                 <img src={item.appPic1} alt="" />
                 <p>{item.appName1}</p>
               </li>
