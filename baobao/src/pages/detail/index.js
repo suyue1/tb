@@ -25,8 +25,9 @@ class Detail extends React.Component {
       type: null,
       listType: this.props.location.query.type,
     };
+  
     this.getSwiper();
-    console.log('我是', this.state.indexs);
+   
   }
 
   // 页面滚动显示顶端tab
@@ -95,8 +96,7 @@ class Detail extends React.Component {
     })
       .then(response => response.json())
       .then(res => {
-        console.log(res);
-        if (this.state.listType === 1) {
+        if (this.state.listType == 1) {
           this.setState({
             headline: res.products[this.state.indexs].imgUrl,
             headline2: res.products[this.state.indexs],
