@@ -5,6 +5,7 @@
  */
 import styles from './index.less';
 import React from 'react';
+import Link from 'umi/link';
 
 class Cart extends React.Component {
   state = {
@@ -143,6 +144,24 @@ class Cart extends React.Component {
             <div className={styles.submit_btn} onClick={this.sum.bind(this)}>
               结算
             </div>
+          </div>
+        </div>
+        <div
+          className={styles.toast}
+          style={{ display: this.state.array.length > 0 ? 'none' : 'block' }}
+        >
+          <div className={styles.mask} />
+          <div className={styles.toast_title}>
+            <p>
+              <i className="iconfont icon-gouwuche" />
+            </p>
+            <p>你的购物车还是空的！</p>
+            <p>去挑选一些中意的商品吧</p>
+            <p>
+              <Link to="/">
+                <button>去逛逛</button>
+              </Link>
+            </p>
           </div>
         </div>
       </div>

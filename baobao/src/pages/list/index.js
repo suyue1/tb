@@ -6,6 +6,7 @@
 
 import React from 'react';
 import styles from './index.less';
+import Link from 'umi/link';
 // import imgs from '../../assets/images/01.jpg';
 // import ISwiper from '../../components/swiper';
 
@@ -94,6 +95,24 @@ class List extends React.Component {
             );
           })}
         </ul>
+        <div
+          className={styles.toast}
+          style={{ display: this.state.orderList.length > 0 ? 'none' : 'block' }}
+        >
+          <div className={styles.mask} />
+          <div className={styles.toast_title}>
+            <p>
+              <i className="iconfont icon-gouwuche" />
+            </p>
+            <p>你还没有订单！</p>
+            <p>去挑选一些中意的商品吧</p>
+            <p>
+              <Link to="/">
+                <button>去逛逛</button>
+              </Link>
+            </p>
+          </div>
+        </div>
       </div>
     );
   }
